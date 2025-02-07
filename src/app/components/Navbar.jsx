@@ -14,11 +14,19 @@ const baseNavLinks = [
   },
   {
     title: "О нас",
-    path: "#about",
+    path: "/#about",
+  },
+  {
+    title: "Цены",
+    path: "/prices",
+  },
+  {
+    title: "Блог",
+    path: "/blog",
   },
   {
     title: "Контакты",
-    path: "#contact",
+    path: "/#contact",
   },
   {
     title: "Андрей",
